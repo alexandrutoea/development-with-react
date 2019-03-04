@@ -1,0 +1,7 @@
+export const PENDING = '';
+export const SUCCESS = '_SUCCESS';
+export const FAIL = '_FAIL';
+
+export const LOAD_HOME_PAGE_DATA = 'LOAD_HOME_PAGE_DATA';
+export const LOAD_USER_DETAILS_PAGE_DATA = 'LOAD_USER_DETAILS_PAGE_DATA';
+export const LOAD_STATISTICS_PAGE_DATA = 'LOAD_STATISTICS_PAGE_DATA';
