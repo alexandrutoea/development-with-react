@@ -1,0 +1,12 @@
+{
+  "userName": "my_username_here",
+  "firstName": "First",
+  "lastName": "Last",
+  "email": "me@myemail.com",
+  "address1": "Street name",
+  "address2": "Area name",
+  "city": "My city",
+  "postcode": "AA12BB",
+  "contactEmail": true,
+  "contactSMS": false
+}
