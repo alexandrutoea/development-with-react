@@ -1,4 +1,4 @@
-# Lending journey demo
+# React Dashboard
 
 ### Install Required Software
 
